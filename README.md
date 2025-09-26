@@ -23,7 +23,7 @@
 ### 编译与运行
 
 1.克隆仓库：
-  git clone https://github.com/你的用户名/Cpp-Webserver-Framework.git
+  git clone https://github.com/JackSam678/Cpp-Webserver-Framework.git
   cd Cpp-Webserver-Framework
 2.编译代码:
   g++ webserver.cpp main.cpp -o webserver -lpthread -std=c++17
