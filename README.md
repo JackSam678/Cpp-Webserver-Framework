@@ -17,7 +17,7 @@
 ### 环境要求
 
 - C++17及以上编译器（g++ 7.3+ 或 clang++ 6.0+）
-- Linux系统（依赖POSIX socket API）
+- Ubuntu20.04.1（依赖POSIX socket API）
 - pthread库（通常系统自带）
 
 ### 编译与运行
